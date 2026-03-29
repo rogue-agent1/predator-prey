@@ -1,10 +1,9 @@
-# Predator Prey
+# predator-prey
 
-A zero-dependency Python CLI tool.
+Lotka-Volterra predator-prey simulation. Zero dependencies, single file, Python 3.8+.
 
 ## Usage
 
 ```bash
-python predator_prey.py test
-python predator_prey.py demo
+python3 predator_prey.py --help
 ```
